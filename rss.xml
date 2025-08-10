@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Brief - Global Markets & Crypto</title>
+    <link>https://yourusername.github.io/daily-brief-feed/rss.xml</link>
+    <description>Your daily AI-powered global news, market indices, and crypto prices</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Aug 2025 06:15:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Global News Roundup - 10 Aug 2025</title>
+      <description><![CDATA[
+      1. AI bubble fears grow as S&P 500 outpaces semiconductor index.<br/>
+      2. Trump’s $12.2T retirement policy shakes crypto markets.<br/>
+      3. China GDP growth beats forecasts.<br/>
+      4. Oil prices stabilize after OPEC comments.<br/>
+      5. Japan inflation hits 3.1%, Yen falls.<br/>
+      6. UK economy shows surprise growth.<br/>
+      7. Germany faces energy supply pressure.<br/>
+      8. Gold prices climb amid market uncertainty.<br/>
+      9. Amazon announces major AI cloud expansion.<br/>
+      10. WHO warns of new health emergency preparedness plan.
+      ]]></description>
+      <link>https://www.bbc.com/news</link>
+      <pubDate>Sun, 10 Aug 2025 06:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>India Markets - Nifty & Sensex</title>
+      <description><![CDATA[
+      Nifty 50: 24,363.30 (-0.95%)<br/>
+      Sensex: 79,857.79 (-0.95%)<br/>
+      FII outflows, global market weakness, and cautious earnings outlook weigh on sentiment.
+      ]]></description>
+      <link>https://economictimes.indiatimes.com</link>
+      <pubDate>Sun, 10 Aug 2025 06:05:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>U.S. Markets Update</title>
+      <description><![CDATA[
+      S&P 500 near record highs; Dow and Nasdaq rally on tech gains.<br/>
+      Nvidia and Apple lead performance.<br/>
+      Fed remains cautious on rate policy.
+      ]]></description>
+      <link>https://apnews.com</link>
+      <pubDate>Sun, 10 Aug 2025 06:10:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Crypto Watch</title>
+      <description><![CDATA[
+      Bitcoin (BTC): $114,635 (-1.6% 12h)<br/>
+      Ethereum (ETH): $3,617 (-3.4% 12h)<br/>
+      XRP: $2.93 (-4.1% 12h)<br/>
+      Market reacting to U.S. policy changes and ETF inflows.
+      ]]></description>
+      <link>https://bitinfocharts.com</link>
+      <pubDate>Sun, 10 Aug 2025 06:15:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
