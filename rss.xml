@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Brief - Global Markets & Crypto</title>
+    <link>https://example.com</link>
+    <description>Your daily AI-powered summary</description>
+    <language>en</language>
+
+    <item>
+      <title>Global News Roundup - 10 Aug 2025</title>
+      <description><![CDATA[Top 10 global headlines from Reuters, Bloomberg, BBC, AP.]]></description>
+      <link>https://www.bbc.com/news</link>
+      <pubDate>Sun, 10 Aug 2025 06:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>India Markets - Nifty & Sensex</title>
+      <description><![CDATA[Nifty 50: 24,363.30 (-0.95%), Sensex: 79,857.79 (-0.95%)]]></description>
+      <link>https://economictimes.indiatimes.com</link>
+      <pubDate>Sun, 10 Aug 2025 06:05:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>U.S. Markets Update</title>
+      <description><![CDATA[S&P 500 near record highs; Nasdaq sets new peak.]]></description>
+      <link>https://apnews.com</link>
+      <pubDate>Sun, 10 Aug 2025 06:10:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Crypto Watch</title>
+      <description><![CDATA[BTC: $114,635 (-1.6%), ETH: $3,617 (-3.4%), XRP: $2.93 (-4.1%)]]></description>
+      <link>https://bitinfocharts.com</link>
+      <pubDate>Sun, 10 Aug 2025 06:15:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
